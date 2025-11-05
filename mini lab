@@ -1,2 +1,10 @@
 mini lab : Cloud Storage : 
 https://github.com/lavishsheth/code/blob/main/mini%20lab%20%3A%20Cloud%20Storage%20%3A%202
+
+
+
+curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Modernizing%20Applications%20with%20Apigee%20X/gsp842.sh
+
+sudo chmod +x gsp842.sh
+
+./gsp842.sh
