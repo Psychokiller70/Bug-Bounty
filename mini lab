@@ -8,3 +8,6 @@ curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/ma
 sudo chmod +x gsp842.sh
 
 ./gsp842.sh
+
+
+https://github.com/Cloud-Wala-Banda/Labs-Solutions/blob/main/Modernizing%20Applications%20with%20Apigee%20X/Modernizing%20Applications%20with%20Apigee%20X.md
